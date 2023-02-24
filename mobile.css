@@ -1,0 +1,14 @@
+@media screen and (max-width=450px){
+  #header{
+    background-color: blue;
+  }
+  #nav{
+    background-color: blue;
+  }
+  #main{
+    background-color: blue;
+  }
+  #footer{
+    background-color: blue;
+  }
+}
